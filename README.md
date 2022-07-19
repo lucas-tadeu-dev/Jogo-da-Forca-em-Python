@@ -18,3 +18,6 @@ Se você acertar ele vai adicionando e te mostrando:
 Se você conseguir ele imprime uma mensagem de parabenizando :
 
 ![image](https://user-images.githubusercontent.com/104043012/178614506-98e97338-c2fb-466d-b1b8-568b0a51e875.png)
+
+No fim esse projeto apesar de ser um jogo, precisa utilizar muitos conceitos de Python, gostei de fazer e acrescentou
+muito para meu aprendizado com python.
